@@ -1,0 +1,6 @@
+POST http://localhost:3000/bot/chatbot
+Content-Type: application/json
+
+{
+  "messege":"what are the benefits of this program"
+}
